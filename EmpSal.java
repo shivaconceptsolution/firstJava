@@ -2,7 +2,7 @@ public class EmpSal
 {
     public static void main(String args[])
     {
-          float sal=31000;
+          float sal=32000;
           float pf;
           if(sal>=15000)
           {
