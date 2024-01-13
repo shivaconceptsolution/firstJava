@@ -11,7 +11,7 @@ public class EmpSal
              System.out.println("Total PF Deduction is"+pf); 
           } 
 
-         System.out.println("Salary is "+sal);
+         System.out.println("Total Salary is "+sal);
 
     }
 
